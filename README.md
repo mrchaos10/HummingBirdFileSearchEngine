@@ -1,0 +1,2 @@
+# HummingBirdFileSearchEngine
+Known what is the flavour of the google.com that we are using yeah Its Humming Bird Algorithm Based Search Engine.Tried simulating it to an extent  have achieved page rank.ML AND ENCRYPTION PARTS ARE LEFT FOR UPDATION. So Not exactly the hummingbird Algorithm that is not even being made an open source.And the most important thing is it is a network lab project made firmly using C :p
