@@ -1,0 +1,3 @@
+/home/mrchaos10/Map_markers-master/Event_Location/app/server
+/home/mrchaos10/Desktop/NetworksProj/server
+/home/mrchaos10/Documents/DisasterMangementScript/templateLogReg/server

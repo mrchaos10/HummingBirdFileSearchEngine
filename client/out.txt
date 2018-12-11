@@ -1,0 +1,9 @@
+ /home/mrchaos10/Map_markers-master/Event_Location/app/client/addlocation.html: 1 0.2  1 
+ /home/mrchaos10/test.txt: 1 0.2  1 
+ /home/mrchaos10/Desktop/NetworksProj/client/assetss/test.txt: 1 0.2  1 
+ /home/mrchaos10/test.txt: 2 0.2  1 
+ /home/mrchaos10/Desktop/NetworksProj/client/assetss/test.txt: 2 0.2  1 
+ /home/mrchaos10/test.txt: 2 0.2  1 
+ /home/mrchaos10/Desktop/NetworksProj/client/assetss/test.txt: 2 0.2  1 
+ /home/mrchaos10/test.txt: 3 0.2  1 
+ /home/mrchaos10/Desktop/NetworksProj/client/assetss/test.txt: 3 0.2  1 

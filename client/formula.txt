@@ -1,0 +1,6 @@
+name count d  ans (1-d)+d(ans[nextrow]/count[nextrow])
+
+
+nextrow except that particular row
+
+

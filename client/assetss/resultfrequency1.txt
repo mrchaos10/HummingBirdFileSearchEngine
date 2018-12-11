@@ -1,0 +1,7 @@
+/home/mrchaos10/client.c: 1 1 
+/home/mrchaos10/Desktop/NetworksProj/client/client.c: 1 1 
+/home/mrchaos10/Documents/DisasterMangementScript/templateLogReg/client: 3 1 
+/home/mrchaos10/Desktop/NetworksProj/client: 3 1 
+/home/mrchaos10/Desktop/NetworksProj/client/test.txt: 1 1 
+/home/mrchaos10/Map_markers-master/Event_Location/app/client: 1 1 
+/home/mrchaos10/test.txt: 1 1 
